@@ -1,4 +1,4 @@
-# Get Pay PHP Test / Commission 
+# Get Pay Commission - PHP Test
 
 ### Via Command Line
 
